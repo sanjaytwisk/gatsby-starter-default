@@ -21,5 +21,12 @@
   },
   "devDependencies": {
     "prettier": "^1.6.1"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "IE >= 10",
+    "Edge >= 12",
+    "Android >= 4.4",
+    "last 2 versions"
+  ]
 }
